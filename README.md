@@ -4,7 +4,7 @@ Meu nome é Ana Laura Denez
 
 - Estou estudando na [alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
-- utilizo esse espaço para mimha organização e compartilhamento dos meus projetos desenvolvidos
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo 📧
 
